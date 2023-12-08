@@ -46,4 +46,4 @@ Start the Redis and MongoDB services on your system and run `yarn start-server` 
 
 ## Authors
 Collins Ahuchaogu: collins.ahuchaogu@gmail.com <br>
-Miracle Kish: 
+Miracle Kish: https://github.com/KishMiracle
